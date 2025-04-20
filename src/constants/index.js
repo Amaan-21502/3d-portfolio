@@ -247,7 +247,7 @@ const testimonials = [
 const socialImgs = [
   {
     name: "insta",
-    url: "",
+    url: "https://www.instagram.com/amaan21502/",
     imgPath: "/images/insta.png",
   },
   {
@@ -262,7 +262,7 @@ const socialImgs = [
   },
   {
     name: "linkedin",
-    url: "",
+    url: "https://www.linkedin.com/in/syed-amaan-izhar-ab907b228/",
     imgPath: "/images/linkedin.png",
   },
 ];
